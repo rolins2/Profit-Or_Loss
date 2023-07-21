@@ -1,0 +1,37 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+label {
+  font-weight: bold;
+  display: block;
+  margin: 1.5rem;
+}
+body {
+  text-align: center;
+}
+button {
+  background: hsl(0, 0%, 20%);
+  color: white;
+  outline: none;
+  border: none;
+  font-size: 1.2rem;
+  padding: 0.7rem 2rem;
+  width: 100%;
+  max-width: 300px;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+
+  border-radius: 0.2rem;
+  cursor: pointer;
+}
+.outp {
+  margin-top: 0.5rem;
+}
+
+.outputBox {
+  width: 300px;
+  height: 80px;
+  border: 2px solid;
+  margin: auto;
+}
